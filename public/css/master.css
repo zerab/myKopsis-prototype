@@ -1,0 +1,46 @@
+body
+{
+  background-color:#FFFFFF;
+}
+.nav-color
+{
+  background-color:#1E2A36;
+}
+.color-nav a
+{
+  color:white;
+}
+.container-height
+{
+  height:30%;
+}
+.navbar-brand-color
+{
+  color:#067B82;
+}
+.no-border
+{
+  border:0px;
+}
+header a
+{
+  color:#ffffff;
+}
+.nav-btn
+{
+  padding:15px;
+}
+.search-bar
+{
+  width:100%;
+}
+.white
+{
+  color:#ffffff;
+}
+.nav-btn:hover
+{
+  background-color:#ffffff;
+  -webkit-transition:0.25s;
+  -moz-transition:0.25s;
+}
